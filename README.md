@@ -1,12 +1,6 @@
-Got it 👍
-Here’s your **README.md** rewritten fully in English:
 
----
 
-### 📄 `README.md`
 
-```markdown
-# Hangman Game 🎮
 
 A simple **Hangman Game** built in Python.  
 It has **two versions**:
@@ -70,9 +64,7 @@ python Hangman_game.py
 
 ---
 
-## 📸 Screenshot (GUI Example)
 
-*(Add your screenshot here)*
 
 ---
 
