@@ -37,7 +37,7 @@ class HangmanGame:
             self.lines -= 1
             if self.lines == 0:
                 self.game_over = True
-                self.message = f"You lose!! The word was '{self.chosen_word}'."
+                self.message = f"You lose!!."
             else:
                 self.message = f"Wrong guess. Lives left: {self.lines}"
 
@@ -60,3 +60,4 @@ class HangmanGame:
 
     def get_message(self):
         return self.message
+
